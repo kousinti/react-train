@@ -1,0 +1,7 @@
+[2J[m[H]0;npm[?25h]0;npm prefix]0;npm]0;npm run test[25l
+> web@0.1.0 test   
+> next test --turbo[5;1H[?25h]0;C:\Windows\system32\cmd.exe  [1m[91m⨯[m Invalid project directory provided, no such directory: C:\Users\gaoxinzhi_q\my_turborepo-main\apps\web\test
+npm [31mERR![m [35mLifecycle script `test` failed with error:[m [20X
+npm [31mERR![m [35mError: command failed[m [41X
+npm [31mERR![m [35m  in workspace: web@0.1.0[m [37X
+npm [31mERR![m [35m  at location: C:\Users\gaoxinzhi_q\my_turborepo-main\apps\web[m 
